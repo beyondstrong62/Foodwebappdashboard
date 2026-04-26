@@ -9,3 +9,4 @@
 
   Run `npm run dev` to start the development server.
   
+  ![Deploy Status](https://github.com/beyondstrong62/Foodwebappdashboard/actions/workflows/deploy.yml/badge.svg)
